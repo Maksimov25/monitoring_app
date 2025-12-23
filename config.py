@@ -4,7 +4,7 @@
 import os
 
 # Пути к моделям
-YOLO_MODEL_PATH = r"D:\PyCharm 2025.1\PycharmProjects\monitoring_app\best_best_last.pt"
+YOLO_MODEL_PATH = r"D:\PyCharm 2025.1\PycharmProjects\monitoring_app\best.pt"
 INSIGHTFACE_MODEL = "buffalo_l"
 
 # Соответствие индексов классов из модели YOLO и их названий в приложении
