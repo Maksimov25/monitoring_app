@@ -4,7 +4,7 @@
 import os
 
 # Пути к моделям
-YOLO_MODEL_PATH = r"D:\PyCharm 2025.1\PycharmProjects\monitoring_app\very_best_best.pt"
+YOLO_MODEL_PATH = r"/Tbest.pt"
 
 INSIGHTFACE_MODEL = "buffalo_l"
 
